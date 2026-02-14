@@ -1,0 +1,7 @@
+{
+  "name": "Luxe 3D Furniture Configurator",
+  "description": "A high-performance, mobile-optimized 3D furniture configuration tool built with React and Three.js, allowing real-time material, shape, and size customization.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
